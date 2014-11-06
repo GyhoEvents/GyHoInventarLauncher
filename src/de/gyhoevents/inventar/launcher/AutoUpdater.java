@@ -1,3 +1,5 @@
+package de.gyhoevents.inventar.launcher;
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
